@@ -23,7 +23,8 @@
     3. Cohesive DX (Developer Experience)
       - complete toolkit for both server/client side
 
-//////////////////////////////
+
+*****************************
 
   Features & Advantages
   - fast in everything compare to NodeJS & Deno
@@ -47,7 +48,9 @@
   - we also can use frameworks with BunJS (Express, Koa...)
     > has Alicia JS (20 times faster than Express)
 
-//////////////////////////////
+
+*****************************
+
   Installation & Setup
   ~~ npm install -g bun
   ~~ bun --version
@@ -64,6 +67,7 @@
 
   *** https://bun.sh/
 
+  
 */
 
 console.log('Hello via Bun!')

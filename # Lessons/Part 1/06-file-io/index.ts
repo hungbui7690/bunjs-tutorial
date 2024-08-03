@@ -1,8 +1,9 @@
 /*
-  React & JSX
-  ~~ bun add react@canary react-dom@canary
-  
-  - create src/index.tsx
+  File I/O
+  - Bun has "fs" package
+    > but instead of "fs", it has the optimized version > File I/O API
+
+    1. create file.ts
 
 */
 

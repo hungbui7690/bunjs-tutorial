@@ -8,7 +8,7 @@
       + instead of using npx, we use bunx
 
   
-    (1) create modules.ts
+    1. create modules.ts
       
 
 
